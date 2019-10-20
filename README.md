@@ -4,6 +4,7 @@ at Department of Applied Informatics, University of Macedonia.
 
 The code were created using "Code :: Blocks IDE" and I used "GNU Compiler for C / C ++".
 
+These tasks attempt to explain the use of ready-made data structures to solve simple and more complex problems.
 In folder "ADT-Libraries" there are some code files with the "adt-libraries", that are used in exercises.
 These libraries are NOT written by me.
 
