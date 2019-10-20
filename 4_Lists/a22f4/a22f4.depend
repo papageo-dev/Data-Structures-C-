@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553106661 source:c:\users\papageorge\desktop\a22f4\a22f4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

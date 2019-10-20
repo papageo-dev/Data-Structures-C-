@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557952639 source:c:\users\papageorge\desktop\a17f5\a17f5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

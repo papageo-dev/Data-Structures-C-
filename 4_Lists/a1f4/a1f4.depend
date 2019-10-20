@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553105639 source:c:\users\papageorge\desktop\a1f4\a1f4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
