@@ -13,7 +13,7 @@ These libraries are NOT written by me.
 
 These tasks attempt to explain the use of ready-made data structures to solve simple and more complex problems.
 
-# Folders/Files Information:
+# Folders/Files Information
 
 Each folder (1_Sets, 2_Stacks etc.) contains the tasks for each type of data structure.
 Each folder (a4f11, a2f7, etc.) contains an exercise, with code file(.c), project file(.cbp), executable file(.exe)
